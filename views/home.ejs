@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NumberOneAcademy Machine Test</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+
+
+    <div class="wrapper">
+        <h1>
+            <%=heading %>
+        </h1>
+
+        <div class="crawler">
+            <div class="crawler__actions">
+                <button class="crawler__actions--start button">Start</button>
+                <button class="crawler__actions--stop button">Stop</button>
+            </div>
+            <div class="crawler__files">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Title</th>
+                            <th>Date</th>
+                            <th>View</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <% pdfs.forEach(pdf=> { %>
+                            <tr>
+                                <td>
+                                    <%= pdf.title %>
+                                </td>
+                                <td>
+                                    <%= pdf.date %>
+                                </td>
+                                <td><a href="<%= pdf.path %>" target="_blank" class="link">View</a></td>
+                  
+                            </tr>
+                            <% }); %>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
