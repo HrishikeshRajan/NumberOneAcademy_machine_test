@@ -20,7 +20,6 @@ module.exports = function saveToDatabase (dir,nodeDB,uniqUrls) {
 
             }
           nodeDB.set(filename, details)
-          console.log(nodeDB.get(filename))
         }).catch((e) =>{console.log(e)})
       }
 }
