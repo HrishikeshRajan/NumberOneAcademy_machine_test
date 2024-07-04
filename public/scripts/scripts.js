@@ -110,7 +110,6 @@
     startButton.classList.remove('hide')
     clearInterval(timer);
     loading = false
-    placeholder( tBody, 3,'results not found')
     console.log('timer canceled');
     } )
  
