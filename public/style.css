@@ -104,6 +104,9 @@ tr:nth-child(even){
     width: 10rem;
 }
 
+.hide{
+    display:none ;
+}
 @media screen and (max-width:400px){
     h1{
         text-align: center;

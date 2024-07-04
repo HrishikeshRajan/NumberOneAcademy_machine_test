@@ -61,8 +61,6 @@
              }
         }
     
-     
-
 
 
     placeholder(tBody, 3,' results not found')
@@ -70,6 +68,8 @@
 
     startButton.addEventListener('click', async (e) => {
      tBody.innerHTML = ''
+     startButton.classList.add('hide')
+     stopButton.classList.remove('hide')
   
     loading = true
 
@@ -105,10 +105,12 @@
     })
 
     stopButton.addEventListener('click', async () =>{
-    
+
+    stopButton.classList.add('hide')
+    startButton.classList.remove('hide')
     clearInterval(timer);
     loading = false
-    placeholder(3,'results not found')
+    placeholder( tBody, 3,'results not found')
     console.log('timer canceled');
     } )
  
