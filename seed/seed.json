@@ -1,22 +1,47 @@
 [
-    {
-      "title": "Test PDF 1",
-      "path": "pdfs/1.pdf",
-      "date": "3/7/2024, 2:01:26 pm"
-    },
-    {
-      "title": "Test PDF 2",
-      "path": "pdfs/2.pdf",
-      "date": "3/7/2024, 2:01:26 pm"
-    },
-    {
-      "title": "Test PDF 3",
-      "path": "pdfs/3.pdf",
-      "date": "3/7/2024, 2:01:26 pm"
-    },
-    {
-      "title": "Test PDF 4",
-      "path": "pdfs/4.pdf",
-      "date": "3/7/2024, 2:01:26 pm"
-    }
- ]
+  {
+      "date": "NOTIFICATIONS   | 26-02-2023",
+      "header": "SECTION 280A OF THE INCOME-TAX ACT, 1961, READ WITH SECTION 84 OF THE BLACK MONEY (UNDISCLOSED FOREIGN INCOME AND ASSETS) AND IMPOSITION OF TAX ACT, 2015 - SPECIAL COURTS - DESIGNATED SPECIAL COURT FOR SPECIFIED STATE",
+      "url": "https://assets1.cleartax-cdn.com/finfo/wg-utils/retool/348ce2d0-56a1-4f99-a895-b5724536566b.pdf"
+  },
+  {
+      "date": "NOTIFICATIONS   | 14-02-2023",
+      "header": "INCOME-TAX (SECOND AMENDMENT) RULES, 2023 - SUBSTITUTION OF FORM ITR-7 | NOTIFICATION G.S.R 95(E) [NO. 5/2023/F.NO. 370142/2/2023-TPL]",
+      "url": "https://assets1.cleartax-cdn.com/finfo/wg-utils/retool/4bda556a-a1b5-4d68-b140-ea553d7f69a7.pdf"
+  },
+  {
+      "date": "NOTIFICATIONS   | 10-02-2023",
+      "header": "New ITR Forms notified | Notification No. 4/2023 [F.No. 370142/51/2022-TPL] / GSR 91(E) ",
+      "url": "https://assets1.cleartax-cdn.com/finfo/wg-utils/retool/807db621-913e-4a14-a0d6-928f62b2d289.pdf"
+  },
+  {
+      "date": "NOTIFICATIONS   | 07-02-2023",
+      "header": "Centralised Processing of Equalisation Levy Statement Scheme, 2023 | Notification No. 03/2023 [F.No.370142/1/2023-TPL] / SO 614(E)",
+      "url": "https://assets1.cleartax-cdn.com/finfo/wg-utils/retool/878c9b84-587a-4366-b9a8-d8b0b9e8ebad.pdf"
+  },
+  {
+      "date": "NOTIFICATIONS   | 05-01-2023",
+      "header": "ADDENDUM TO NOTIFICATION NO. 2 OF 2021: FORMAT, PROCEDURE AND GUIDELINES FOR SUBMISSION OF STATEMENT OF FINANCIAL TRANSACTIONS (SFT) FOR INTEREST INCOME (ABOLISHING OF LIMIT OF RS. 5000)",
+      "url": "https://assets1.cleartax-cdn.com/finfo/wg-utils/retool/509b69f5-ca54-4944-9350-50ace66d190e.pdf"
+  },
+  {
+      "date": "CIRCULARS    | 15-03-2022",
+      "header": "Circular No. 4/2022 : Deduction of Tax at Source - Income-tax Deduction from Salaries under section 192 of the Income-tax Act, 1961",
+      "url": "https://assets.cleartax-cdn.com/finfo/tax_library/circular-04-2022.pdf"
+  },
+  {
+      "date": "CIRCULARS    | 30-03-2022",
+      "header": "Circular No. 7/2022 : Clarification with respect to relaxation of provisions of rule 114AAA of Income-tax Rules, 1962 prescribing the manner of making Permanent Account Number (PAN) inoperative",
+      "url": "https://assets.cleartax-cdn.com/finfo/tax_library/circular-no-7-2022.pdf"
+  },
+  {
+      "date": "CIRCULARS    | 25-10-2021",
+      "header": "Circular No. 18/2021 : ​Clarification regarding Section 36(1)(xvii) of the Income-tax Act, 1961 inserted vide Finance Act, 2015",
+      "url": "https://assets.cleartax-cdn.com/finfo/tax_library/circular-no-18-2021.pdf"
+  },
+  {
+      "date": "CIRCULARS    | 04-03-2021",
+      "header": "Circular No. 3/2021: Circular under section 10 of the Direct Tax Vivad se Vishwas Act, 2020",
+      "url": "https://assets.cleartax-cdn.com/finfo/tax_library/circular_3_2021-Ci~cular%20under%20section%2010%20of%20the%20lJircct%20Tax%20Vivad%20sc%20Vishwas%20Act,%202020%20_%20reg.pdf"
+  }
+]

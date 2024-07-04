@@ -18,8 +18,8 @@
 
         <div class="crawler">
             <div class="crawler__actions">
-                <button class="crawler__actions--start button">Start</button>
-                <button class="crawler__actions--stop button">Stop</button>
+                <button id ="start" class="crawler__actions--start button">Start</button>
+                <button id= "stop" class="crawler__actions--stop button">Stop</button>
             </div>
             <div class="crawler__files">
                 <table>
@@ -30,24 +30,16 @@
                             <th>View</th>
                         </tr>
                     </thead>
-                    <tbody>
-                        <% pdfs.forEach(pdf=> { %>
-                            <tr>
-                                <td>
-                                    <%= pdf.title %>
-                                </td>
-                                <td>
-                                    <%= pdf.date %>
-                                </td>
-                                <td><a href="<%= pdf.path %>" target="_blank" class="link">View</a></td>
-                  
-                            </tr>
-                            <% }); %>
+                    <tbody >
+             
+  
                     </tbody>
                 </table>
             </div>
         </div>
     </div>
+
+    <script src="scripts/scripts.js"></script>
 </body>
 
 </html>
